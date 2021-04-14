@@ -1,4 +1,4 @@
-# COVID19 Test Serverp
+# COVID19 Test Server
 
 ## Available Scripts
 
